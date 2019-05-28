@@ -16,4 +16,3 @@ const setTime = function setTime() {
 window.setInterval(setTime, 1000);
 
 $(document).ready(setTime);
-
